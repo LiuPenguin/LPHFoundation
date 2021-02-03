@@ -1,0 +1,22 @@
+{
+  "name": "LPHFoundation",
+  "version": "0.1.0",
+  "summary": "LPHFoundation.",
+  "description": "LPHFoundation.这是个库文件别动我的",
+  "homepage": "https://github.com/LiuPenguin/LPHFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiuPenguin": "penguin_liu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/LiuPenguin/LPHFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LPHFoundation/Classes/*.{h,m}"
+}

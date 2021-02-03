@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LPHFoundation (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LPHFoundation (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LPHFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LPHFoundation: da5b3b111ecb63317edf03653fffc277fb5d981e
+
+PODFILE CHECKSUM: c5248c50c69b457416c656f45efbfa6214b21e6b
+
+COCOAPODS: 1.10.1
